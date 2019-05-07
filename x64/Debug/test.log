@@ -1,0 +1,108 @@
+﻿  main.cpp
+d:\project\sfml\test\test\main.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(100): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(116): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+d:\project\sfml\test\test\main.cpp(214): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(219): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(269): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(274): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(279): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(284): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(289): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(304): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\project\sfml\test\test\main.cpp(344): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\project\sfml\test\test\main.cpp(345): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\project\sfml\test\test\main.cpp(377): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\project\sfml\test\test\main.cpp(435): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\project\sfml\test\test\main.cpp(561): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\project\sfml\test\test\main.cpp(567): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\project\sfml\test\test\main.cpp(1199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1200): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1258): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1267): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1602): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1603): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1621): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1629): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1633): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1634): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1715): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1716): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(1718): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project\sfml\test\test\main.cpp(2082): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2083): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2099): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2100): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2196): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2197): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\project\sfml\test\test\main.cpp(2321): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\project\sfml\test\test\main.cpp(376): warning C4101: 'randomItem': unreferenced local variable
+d:\project\sfml\test\test\main.cpp(1175): warning C4101: 'm': unreferenced local variable
+  test.vcxproj -> D:\project\SFML\test\x64\Debug\test.exe
